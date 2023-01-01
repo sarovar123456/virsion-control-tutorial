@@ -1,0 +1,20 @@
+<<<<<<< HEAD
+// file3 in master branch
+=======
+
+// file3
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Sed eget rhoncus metus, nec suscipit neque. Nam et facilisis ligula. 
+Nulla eleifend sem vel tincidunt venenatis. Donec in varius ipsum. Integer eget 
+magna ut ligula eleifend vehicula placerat at sem. Curabitur imperdiet mauris felis,
+laoreet convallis dolor sollicitudin a. Proin elementum, turpis in luctus 
+blandit, dolor lectus tincidunt lacus, sit amet pulvinar augue tellus vitae ipsum. 
+Integer lacinia sem ut fringilla consequat. Donec viverra sodales tempus. 
+Fusce leo ipsum, tempus ac justo non, faucibus faucibus eros. 
+Suspendisse vitae eros maximus, efficitur libero a, ultricies dolor. 
+Donec ullamcorper erat non ante ultrices, at cursus libero blandit. 
+Fusce scelerisque eros vel tellus scelerisque, at fringilla massa lacinia. 
+Praesent ut risus a sem consectetur scelerisque. Morbi in turpis quis leo porttitor 
+dignissim sed ac est.
+>>>>>>> alien-pilot
